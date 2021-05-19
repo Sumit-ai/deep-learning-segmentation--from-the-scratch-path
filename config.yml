@@ -2,10 +2,9 @@ title: deep learning segmentation: from the scratch path
 description: A couple of great learning resources!
 steps:
   # Point to a course on Learning Lab owned by the same user or organization as this Learning Path
-  - course: introduction-to-github
+  - course: deep-learning-segmentation--from-the-scratch-path
 
-  # Point to a course owned by another user on Learning Lab
-  - course: githubtraining/introduction-to-github
+  
 
   # Point to an external link
   - link: https://opensource.guide/starting-a-project/#writing-a-readme
